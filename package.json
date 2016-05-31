@@ -1,0 +1,17 @@
+{
+  "name": "tineye-matchengine",
+  "version": "0.0.1",
+  "description": "TinEye MatchEngine API node.js library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "eslint ./**/*.js *.js"
+  },
+  "devDependencies": {
+    "eslint": "^2.10.1"
+  },
+  "author": "Michael Clifford <cliff@onradpad.com>",
+  "license": "MIT"
+}
