@@ -9,9 +9,13 @@
   "scripts": {
     "test": "eslint ./**/*.js *.js"
   },
-  "devDependencies": {
-    "eslint": "^2.10.1"
-  },
   "author": "Michael Clifford <cliff@onradpad.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.3.0",
+    "object-assign": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.11.1"
+  }
 }
