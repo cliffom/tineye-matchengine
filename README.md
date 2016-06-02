@@ -8,7 +8,7 @@ npm install tineye-matchengine
 ```
 
 ## Usage
-```
+```js
 const {MatchEngine} = require('tineye-matchengine')
 matchengine = new MatchEngine('USERNAME', 'PASSWORD', 'BASE_URL')
 
