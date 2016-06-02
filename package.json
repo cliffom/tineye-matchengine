@@ -9,6 +9,10 @@
   "scripts": {
     "test": "eslint ./**/*.js *.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RadPad/tineye-matchengine"
+  },
   "author": "Michael Clifford <cliff@onradpad.com>",
   "license": "MIT",
   "dependencies": {
